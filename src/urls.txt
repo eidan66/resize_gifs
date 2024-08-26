@@ -1,0 +1,6 @@
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/1.gif?raw=true
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/2.gif?raw=true
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/3.gif?raw=true
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/4.gif?raw=true
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/5.gif?raw=true
+https://github.com/eidan66/pokemon-api-sprites/blob/master/sprites/pokemon/other/showdown/6.gif?raw=true
